@@ -3,7 +3,7 @@ import Script from "next/script";
 const Header = () => {
   return (
     <>
-      <Head><h1>Welcome to the JNTUH Results page</h1>
+      <Head>
 
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4B09S1N7EL"></script>
